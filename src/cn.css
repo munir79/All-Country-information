@@ -1,0 +1,10 @@
+.cn img{
+height: 200px;
+width: 210px;
+}
+.cn{
+    border: 2px solid red;
+    background-color:rgb(36,37,38);
+    color: white;
+    border-radius: 10px;
+}
